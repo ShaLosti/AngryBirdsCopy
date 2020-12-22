@@ -1,2 +1,2 @@
 # AnryBirdsCopy
-1 lvl anry birds copy.
+1 lvl angry birds copy.
